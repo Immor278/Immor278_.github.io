@@ -46,3 +46,8 @@ ul{
     display: inline-block;
     margin: 6px;
 }
+
+.box li a{
+    color: white;
+    font-size: 60px;
+}
