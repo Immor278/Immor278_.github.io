@@ -51,4 +51,5 @@ ul{
 .box li a{
     color: white;
     font-size: 20px;
+    text-decoration: none;
 }
