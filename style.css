@@ -13,6 +13,7 @@ body{
     text-align: center;
     margin: auto;
     margin-top: 5%;
+    margin-bottom: 5%;
     color: white;
 }
 
@@ -21,6 +22,12 @@ body{
     width: 200px;
     height: 200px;
 }
+
+/* .box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+} */
 
 .box h1{
     font-size: 40px;
@@ -53,3 +60,9 @@ ul{
     font-size: 15px;
     text-decoration: none;
 }
+
+/* #project.box a{
+    color: white;
+    font-size: 15px;
+    text-decoration: underline;
+} */
